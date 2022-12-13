@@ -1,0 +1,5 @@
+# settings.yml
+
+extend_content_security_policy:
+  type: list
+  default: "worker_src: blob:"

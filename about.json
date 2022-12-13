@@ -1,0 +1,6 @@
+{
+  "name": "Extend Content Security Policy",
+  "component": true,
+  "license_url": "https://github.com/Dwolla/extend-csp-discourse-theme-component/blob/main/LICENSE",
+  "about_url": "https://meta.discourse.org/t/mitigate-xss-attacks-with-content-security-policy/104243"
+}
